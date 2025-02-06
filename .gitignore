@@ -1,0 +1,14 @@
+# Ignore all CSV files in the repository
+*.csv
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+.vscode/
