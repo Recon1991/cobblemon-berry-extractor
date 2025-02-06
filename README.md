@@ -13,7 +13,8 @@ A Python script that extracts **berry information** from Cobblemon JAR archives 
    - Properly capitalizes names  
    - Sorts the **mutation CSV by mutation berry name**
  
-✅ **Configurable via `config.json`**  
+✅ **Configurable via `config.json`** 
+
 ---
 
 ## Installation & Setup  
