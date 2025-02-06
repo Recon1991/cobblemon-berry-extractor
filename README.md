@@ -4,15 +4,16 @@ A Python script that extracts **berry information** from Cobblemon JAR archives 
 
 ## Features  
 ✅ Extracts berry data from **`data/cobblemon/berries/`** inside a JAR archive  
+
 ✅ Outputs two CSV files:  
    - **Berry Info CSV:** Includes berry name, preferred biomes, and favorite mulches  
-   - **Berry Mutations CSV:** Lists mutation results along with required berry pairs  
+   - **Berry Mutations CSV:** Lists mutation results along with required berry pairs
+  
 ✅ **Formatted output:**  
    - Properly capitalizes names  
-   - Sorts the **mutation CSV by mutation berry name**  
+   - Sorts the **mutation CSV by mutation berry name**
+ 
 ✅ **Configurable via `config.json`**  
-✅ **Multithreaded processing** for efficiency  
-
 ---
 
 ## Installation & Setup  
